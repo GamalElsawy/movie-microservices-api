@@ -6,5 +6,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 spring:
   application:
-    name: Movie-Info Service
+    name: movie-info-service
 
